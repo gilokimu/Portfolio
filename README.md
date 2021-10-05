@@ -26,3 +26,16 @@ https://www.youtube.com/watch?v=_SX3o_fw6xE&list=PLobYYjYibqFfXEymHGhVFA41tVXwmr
 <img width="997" alt="Screenshot 2021-10-05 at 11 20 11" src="https://user-images.githubusercontent.com/1386919/135986849-0ed699fd-3aa2-4b01-abb1-bd06a358cacd.png">
 <img width="998" alt="Screenshot 2021-10-05 at 11 20 21" src="https://user-images.githubusercontent.com/1386919/135986862-317acbcd-5a0f-47e8-99aa-34d7868239e0.png">
 <img width="355" alt="Screenshot 2021-10-05 at 11 20 30" src="https://user-images.githubusercontent.com/1386919/135986821-8cb0fb37-3b0f-4d2e-91b1-f4086289943d.png">
+
+## 5. Couture Card Application
+The couture card app is the companion app to the couture credit card. The app allows you to sign up for a card and manage the card. From locating the perfect luxury hotel to booking tickets, the Concierge app is here to help you any time, night or day
+
+<img width="256" src="https://user-images.githubusercontent.com/1386919/135988903-358a5ab3-b6e8-4aa8-9007-c6b15eb7c6f2.png"> <img width="256" src="https://user-images.githubusercontent.com/1386919/135988918-f79bbf83-32c6-44d4-a912-b79d6c9cead5.gif"> <img width="256" src="https://user-images.githubusercontent.com/1386919/135988950-db559ac2-f948-49dc-bbb4-5b4f2e4996fe.png"> <img width="256" src="https://user-images.githubusercontent.com/1386919/135988934-db7fb629-20fc-46b8-8686-793de8560b27.jpeg">
+
+## 6. Soko Artisan Application
+Artisan application for managing manufacturing hand made products with small scale producers. The application also provides services for business growth
+https://play.google.com/store/apps/details?id=com.soko.android.soko
+
+<img width="1614" alt="Screenshot 2021-10-05 at 11 43 38" src="https://user-images.githubusercontent.com/1386919/135990940-00d2684f-82e0-4f25-984c-8ee0ee10afca.png">
+<img width="1637" alt="Screenshot 2021-10-05 at 11 43 49" src="https://user-images.githubusercontent.com/1386919/135990942-c2d977d8-a274-40cb-93d2-82a03fe7726e.png">
+
